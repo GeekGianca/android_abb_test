@@ -27,26 +27,26 @@ Which are the main 4 with their subfolders.
 
 * The UI folder stores the states of the views, the viewModels and the fragments of the app, all the visual part.
 
-![alt text](https://github.com/GeekGianca/android_abb_test/n00_.png?raw=true)
+![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n00_.png?raw=true)
 
 # How does the app work?
 - App have Light mode or Night mode
 - Recent search data is displayed on this screen.
 - Tapping the search button displays the filter view
-  ![alt text](https://github.com/GeekGianca/android_abb_test/n1_.png?raw=true)
-  ![alt text](https://github.com/GeekGianca/android_abb_test/n2_.png?raw=true)
+  ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n1_.png?raw=true)
+  ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n2_.png?raw=true)
   
 - When you tap the search, he will perform the search once we tap the search button, but he does not perform searches every time we write.
-  ![alt text](https://github.com/GeekGianca/android_abb_test/n3_.png?raw=true)
-  ![alt text](https://github.com/GeekGianca/android_abb_test/n4_.png?raw=true)
+  ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n3_.png?raw=true)
+  ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n4_.png?raw=true)
   
 - If we tap on one of the results, it will show us the detail of the selected abbreviation
-  ![alt text](https://github.com/GeekGianca/android_abb_test/n5_.png?raw=true)
-  ![alt text](https://github.com/GeekGianca/android_abb_test/n6_.png?raw=true)
+  ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n5_.png?raw=true)
+  ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n6_.png?raw=true)
   
 - When we return to the initial screen we will have local results
-  ![alt text](https://github.com/GeekGianca/android_abb_test/n7_.png?raw=true)
-  ![alt text](https://github.com/GeekGianca/android_abb_test/n8_.png?raw=true)
-  ![alt text](https://github.com/GeekGianca/android_abb_test/n9_.png?raw=true)
+  ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n7_.png?raw=true)
+  ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n8_.png?raw=true)
+  ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n9_.png?raw=true)
   
 - If the application does not have an internet connection, but locally there are results stored with the search, it displays them, it also shows an error snackbar due to internet connection
