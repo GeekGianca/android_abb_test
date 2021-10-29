@@ -32,7 +32,7 @@ of the project folders. Which are the main 4 with their subfolders.
 * The UI folder stores the states of the views, the viewModels and the fragments of the app, all the
   visual part.
 
-![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n00_.png?raw=true | width 250)
+![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n00.png?raw=true)
 
 # How does the app work?
 
