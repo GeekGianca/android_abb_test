@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NisumTest</string>
+    <string name="database_name">abbreviation_db</string>
+
+    <string name="action_searching">Find</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Abbreviation Finder</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="text_find">It\'s pretty empty around here</string>
+    <string name="text_search">Search</string>
+    <string name="text_why_search_abbreviation">Search for an abbreviation</string>
+    <string name="action_home">Home</string>
+    <string name="text_frequency">Search frequency: </string>
+    <string name="text_frequency_recent">Frequency: </string>
+    <string name="text_since">Since: </string>
+    <string name="text_empty_results">Sorry, there are no results that match your abbreviation</string>
+    <string name="text_find_other">Why don\'t you search for something else?</string>
+    <string name="text_no_network">You can look at recent searches locally.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_abb_dt">Abbreviation:</string>
+    <string name="text_title_detail">Detail abbreviation</string>
+    <string name="text_related_vars">Related vars</string>
+</resources>
