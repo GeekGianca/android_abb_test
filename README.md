@@ -45,7 +45,7 @@ of the project folders. Which are the main 4 with their subfolders.
 - When we return to the initial screen we will have local results
 - If the application does not have an internet connection, but locally there are results stored with
   the search, it displays them, it also shows an error snackbar due to internet connection
-  ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n1_.png?raw=true)
+  ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n1.png?raw=true)
   ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n2_.png?raw=true)
   ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n3_.png?raw=true)
   ![alt text](https://github.com/GeekGianca/android_abb_test/blob/main/n4_.png?raw=true)
